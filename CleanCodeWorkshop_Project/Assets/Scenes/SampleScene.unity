@@ -227,7 +227,7 @@ GameObject:
   - component: {fileID: 942710664}
   - component: {fileID: 942710665}
   m_Layer: 0
-  m_Name: ListPrinter
+  m_Name: PetCargoManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
